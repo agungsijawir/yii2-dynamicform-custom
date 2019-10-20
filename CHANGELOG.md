@@ -9,7 +9,7 @@ dev-master
 - Enh #24: Added support for "jquery.inputmask". It only works with Yii 2.0.4 or higher.
 - Enh: Remove "error/success" class css template to be cloned.
 - Bug: Fixes for: checkbox(), checkboxList(), radio() and radioList()
-
+- Bug: Fixes for: yiiActiveForm failed to retrieve data attributes.
 
 version 2.0.2
 -------------
